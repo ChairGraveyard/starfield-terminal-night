@@ -1,0 +1,21 @@
+{
+  "name": "starfield-terminal-night",
+  "displayName": "Starfield Terminal Night",
+  "description": "A theme for StarKit Lite.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Starfield Terminal Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Starfield Terminal Night-color-theme.json"
+      }
+    ]
+  }
+}
